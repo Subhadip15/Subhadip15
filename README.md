@@ -1,16 +1,25 @@
-## Hi there 👋
+##Hi there, I'm Subhadip Karmakar 👋
 
-<!--
-**Subhadip15/Subhadip15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI/ML Engineer & Software Developer
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm passionate about building scalable software, working with machine learning models, and turning complex data into intuitive solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 About Me
+
+🌱 I’m currently exploring advanced Multimodal AI and Deep Learning architectures.
+
+💡 I love building projects that bridge the gap between cutting-edge research and practical applications.
+
+🎓 [Optional: NOT Ready.]
+
+📫 How to reach me: your.email@example.com
+
+🛠️ Tech Stack & Tools
+
+📊 GitHub Stats
+
+🌐 Connect with Me
+
+LinkedIn: LinkedIn Profile
+
+Portfolio / Website: Website Link
