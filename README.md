@@ -10,9 +10,8 @@ Welcome to my GitHub profile! I'm passionate about building scalable software, w
 
 💡 I love building projects that bridge the gap between cutting-edge research and practical applications.
 
-🎓 [Optional: NOT Ready.]
 
-📫 How to reach me: your.email@example.com
+📫 How to reach me: subhadipk.netlify.app
 
 🛠️ Tech Stack & Tools
 
@@ -22,4 +21,4 @@ Welcome to my GitHub profile! I'm passionate about building scalable software, w
 
 LinkedIn: LinkedIn Profile
 
-Portfolio / Website: Website Link
+Portfolio / Website:  subhadipk.netlify.app
